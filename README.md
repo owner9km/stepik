@@ -1,2 +1,6 @@
-# stepik
-https://stepik.org/lesson/187065/step/7?unit=161976
+add readme
+initial commit
+link commit
+file commit
+simple test case added
+homework from previous module
